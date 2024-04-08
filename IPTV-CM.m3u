@@ -181,3 +181,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001318/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",凤凰中文台
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他",凤凰资讯台
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
