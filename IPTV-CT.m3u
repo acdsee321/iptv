@@ -10,7 +10,7 @@ http://php.jdshipin.com:8880/bst.php?id=dfyshd8m/8000000
 #EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://php.jdshipin.com:8880/bst.php?id=dycjhd8m/8000000
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
+http://php.jdshipin.com:8880/bst.php?id=wxtyhd8m/8000000
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",纪实频道
 http://php.jdshipin.com:8880/bst.php?id=jsrw
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="上海",教育台
